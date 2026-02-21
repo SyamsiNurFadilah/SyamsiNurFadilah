@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR2eWxydzJmejgzcnM5MGYzbmlrbGptZHB1cnF1cmc4b3p1MmZmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
 </p>
 
-<p align="center" style="font-size:30px; font-weight:bold;">
+<p align="center" style="font-size:40px; font-weight:bold;">
   Hi there 👋 I'm Syamsi Nur Fadilah
 </p>
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&width=500&lines=Web+Developer;Information+Systems+Student" />
 </p>
 
-###
+<h1></h1>
 
 <h3>👨‍💻 About Me</h3>
 
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyamsiNurFadilah/SyamsiNurFadilah/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyamsiNurFadilah/SyamsiNurFadilah/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyamsiNurFadilah/SyamsiNurFadilah/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SyamsiNurFadilah/SyamsiNurFadilah/output/pacman-contribution-graph.svg">
 </picture>
 
