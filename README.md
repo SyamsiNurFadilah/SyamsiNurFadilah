@@ -21,13 +21,10 @@ Here are some ideas to get you started:
   Hi there 👋 I'm Syamsi Nur Fadilah <br>
 </h1>
 
-<h1></h1>
-
 <h3>👨‍💻 About Me</h3>
 
 <p>
-  I'm an Information Systems student who is passionate about web development 
-  and always excited to learn new technologies.
+  I'm an Information Systems student at Universitas Bina Sarana Informatika. I have a deep passion for exploring and learning everything related to technology, ranging from programming and web development to the latest technological innovations. My curiosity and enthusiasm for this field drive me to continually delve deeper, stay up to date with the latest advancements, and improve my skills. This is one of the main reasons I chose Information Systems as my major, as I believe it provides a solid foundation for understanding and mastering technology on a broader scale.
 </p>
 
 <h3>🔗 Connect With Me</h3>
