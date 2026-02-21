@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋 I'm Syamsi Nur Fadilah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&width=500&lines=Web+Developer;Information+Systems+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&width=500&lines=Web+Developer;Information+Systems+Student" />
 </p>
 
-<hr>
+---
 
 <h3>👨‍💻 About Me</h3>
 
@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 <h3>🔗 Connect With Me</h3>
 
-<hr>
+---
